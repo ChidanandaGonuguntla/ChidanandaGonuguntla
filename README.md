@@ -120,8 +120,6 @@ I'm a **Senior Backend Engineer & Tech Lead** with **15+ years** building enterp
 
 ## 📊 GitHub Stats
 
- ## 📊 GitHub Stats
-
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats-jarparrbb-chidananda-gonuguntla-s-projects.vercel.app/api?username=ChidanandaGonuguntla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Chidananda's GitHub Stats" />
