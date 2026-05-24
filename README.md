@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/chidha2005/chidha2005/main/assets/wave.gif" width="30px" alt="wave" />
-  <h1>Hi, I'm Chidananda Gonuguntla</h1>
+  <h1>👋 Hi, I'm Chidananda Gonuguntla</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+Backend+Engineer+%7C+Tech+Lead;15%2B+Years+%E2%80%A2+Java+%E2%80%A2+Spring+%E2%80%A2+Kafka;Agentic+AI+%26+MCP+Builder;Processing+15M%2B+Transactions+Daily" alt="Typing SVG" />
 </div>
 
@@ -14,11 +13,11 @@ I'm a **Senior Backend Engineer & Tech Lead** with **15+ years** building enterp
 
 ### 🌟 Quick Facts
 
-- 🏗️ **Architect at scale** — DSM 2.0 transaction enrichment platform on Java 21, Kafka, OpenShift
+- 🏗️ **Architect at scale** — Transaction enrichment platform on Java 21, Kafka, OpenShift
 - 🤖 **Agentic AI builder** — Shipping MCP servers, LLM-powered DevSecOps tooling, and multi-agent systems
 - ☁️ **Cloud-native first** — Kubernetes, OpenShift, Helm, AWS, Datadog observability
 - 📊 **Data-intensive systems** — Kafka Streams, Postgres, Redis, Trino/Starburst federated analytics
-- 🏏 **Off the keyboard** — AI/ML self-learner
+- 🧠 **Off the keyboard** — AI/ML self-learner
 
 ---
 
@@ -122,8 +121,18 @@ I'm a **Senior Backend Engineer & Tech Lead** with **15+ years** building enterp
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chidha2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chidha2005&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChidanandaGonuguntla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="Chidananda's GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChidanandaGonuguntla&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=ChidanandaGonuguntla&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ChidanandaGonuguntla&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
+
 </div>
 
 ---
@@ -159,23 +168,23 @@ I'm a **Senior Backend Engineer & Tech Lead** with **15+ years** building enterp
 ## 🚀 Featured Projects
 
 ### **🤖 AI & Agentic Systems**
-- 🔌 **[MCP Host Integration](https://github.com/chidha2005/mcp-host-integration)** — Model Context Protocol implementation with Spring Boot & Anthropic Claude
-- ✈️ **[Agentic Trip Planner](https://github.com/chidha2005/agentic-trip-planner)** — Multi-agent AI travel planning with Spring Boot & Google Gemini
-- 🤖 **[Agency Agents](https://github.com/chidha2005/agency-agents)** — Complete AI agency framework with specialized agents
-- 🏥 **[AI Hospital Assistant](https://github.com/chidha2005/ai-hospital-assistant-platform)** — Patient lifecycle management with AI integration
-- 🧠 **[AI Engineering Lab](https://github.com/chidha2005/ai-engineering-lab)** — Advanced AI/ML experimentation
-- 📚 **[500 AI Agents Projects](https://github.com/chidha2005/500-AI-Agents-Projects)** — Curated agent use cases across industries
+- 🔌 **[MCP Host Integration](https://github.com/ChidanandaGonuguntla/mcp-host-integration)** — Model Context Protocol implementation with Spring Boot & Anthropic Claude
+- ✈️ **[Agentic Trip Planner](https://github.com/ChidanandaGonuguntla/agentic-trip-planner)** — Multi-agent AI travel planning with Spring Boot & Google Gemini
+- 🤖 **[Agency Agents](https://github.com/ChidanandaGonuguntla/agency-agents)** — Complete AI agency framework with specialized agents
+- 🏥 **[AI Hospital Assistant](https://github.com/ChidanandaGonuguntla/ai-hospital-assistant-platform)** — Patient lifecycle management with AI integration
+- 🧠 **[AI Engineering Lab](https://github.com/ChidanandaGonuguntla/ai-engineering-lab)** — Advanced AI/ML experimentation
+- 📚 **[500 AI Agents Projects](https://github.com/ChidanandaGonuguntla/500-AI-Agents-Projects)** — Curated agent use cases across industries
 
 ### **💳 Enterprise & Backend**
-- 💳 **[Payment Platform](https://github.com/chidha2005/payment-platform)** — Real-time payment processing with layered fraud detection (MaxMind, Sift, Redis velocity checks, transactional outbox)
-- 🔍 **[CodeXRay](https://github.com/chidha2005/codexray)** — Developer intelligence platform analyzing Java code structure and performance
+- 💳 **[Payment Platform](https://github.com/ChidanandaGonuguntla/payment-platform)** — Real-time payment processing with layered fraud detection (MaxMind, Sift, Redis velocity checks, transactional outbox)
+- 🔍 **[CodeXRay](https://github.com/ChidanandaGonuguntla/codexray)** — Developer intelligence platform analyzing Java code structure and performance
 
 ### **🛠️ Developer Tools**
-- 📡 **[9Router](https://github.com/chidha2005/9router)** — AI coding with auto-fallback across 40+ LLM providers
+- 📡 **[9Router](https://github.com/ChidanandaGonuguntla/9router)** — AI coding with auto-fallback across 40+ LLM providers
 
 ### **📖 Learning & Exploration**
-- 🏛️ **[Claude Certified Architect](https://github.com/chidha2005/claude-certified-architect)** — Study materials for Claude Certified Architect Foundations
-- ⚖️ **[Claude for Legal](https://github.com/chidha2005/claude-for-legal)** — Plugins for legal workflow automation
+- 🏛️ **[Claude Certified Architect](https://github.com/ChidanandaGonuguntla/claude-certified-architect)** — Study materials for Claude Certified Architect Foundations
+- ⚖️ **[Claude for Legal](https://github.com/ChidanandaGonuguntla/claude-for-legal)** — Plugins for legal workflow automation
 
 ---
 
@@ -184,13 +193,13 @@ I'm a **Senior Backend Engineer & Tech Lead** with **15+ years** building enterp
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gonuguntlachidanandanaidu/?skipRedirect=true)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chidha2005)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChidanandaGonuguntla)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=chidha2005&color=00D9FF&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ChidanandaGonuguntla&color=00D9FF&style=flat-square" alt="Profile views" />
   <p><em>Building backend systems and agentic AI tools that ship to production.</em></p>
 </div>
