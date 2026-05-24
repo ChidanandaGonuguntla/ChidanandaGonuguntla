@@ -163,22 +163,21 @@ I'm a **Senior Backend Engineer & Tech Lead** with **15+ years** building enterp
 ## 🚀 Featured Projects
 
 ### **🤖 AI & Agentic Systems**
-- 🔌 **[MCP Host Integration](https://github.com/ChidanandaGonuguntla/mcp-host-integration)** — Model Context Protocol implementation with Spring Boot & Anthropic Claude
-- ✈️ **[Agentic Trip Planner](https://github.com/ChidanandaGonuguntla/agentic-trip-planner)** — Multi-agent AI travel planning with Spring Boot & Google Gemini
-- 🤖 **[Agency Agents](https://github.com/ChidanandaGonuguntla/agency-agents)** — Complete AI agency framework with specialized agents
+- 🔌 **[MCP Host Integration](https://github.com/ChidanandaGonuguntla/mcp-host-integration)** — Faithful Java/Spring Boot implementation of the Model Context Protocol — one host application with three MCP clients connecting to separate servers
+- ✈️ **[Agentic Trip Planner](https://github.com/ChidanandaGonuguntla/agentic-trip-planner)** — Production-grade multi-agent AI travel planning platform built with Spring Boot, Spring AI, and Google Gemini
+- 🤖 **[Agency Agents](https://github.com/ChidanandaGonuguntla/agency-agents)** — Original AI-agency framework with specialized agents on the JVM
+- 🧠 **[AI Engineering Lab](https://github.com/ChidanandaGonuguntla/ai-engineering-lab)** — Personal lab for AI/ML experimentation, including a from-scratch Java 21 neural network with gradient descent
 - 🏥 **[AI Hospital Assistant](https://github.com/ChidanandaGonuguntla/ai-hospital-assistant-platform)** — Patient lifecycle management with AI integration
-- 🧠 **[AI Engineering Lab](https://github.com/ChidanandaGonuguntla/ai-engineering-lab)** — Advanced AI/ML experimentation
-- 📚 **[500 AI Agents Projects](https://github.com/ChidanandaGonuguntla/500-AI-Agents-Projects)** — Curated agent use cases across industries
 
 ### **💳 Enterprise & Backend**
-- 💳 **[Payment Platform](https://github.com/ChidanandaGonuguntla/payment-platform)** — Real-time payment processing with layered fraud detection (MaxMind, Sift, Redis velocity checks, transactional outbox)
-- 🔍 **[CodeXRay](https://github.com/ChidanandaGonuguntla/codexray)** — Developer intelligence platform analyzing Java code structure and performance
+- 💳 **[Payment Platform](https://github.com/ChidanandaGonuguntla/payment-platform)** — Production-grade Maven multi-module monorepo for real-time payment processing with layered fraud detection (MaxMind GeoLite2, Sift Science, Redis-backed velocity checks, transactional outbox)
+- 🔍 **[CodeXRay](https://github.com/ChidanandaGonuguntla/codexray)** — Developer-intelligence platform analyzing Java code structure and performance
 
 ### **🛠️ Developer Tools**
-- 📡 **[9Router](https://github.com/ChidanandaGonuguntla/9router)** — AI coding with auto-fallback across 40+ LLM providers
+- 📡 **[9Router](https://github.com/ChidanandaGonuguntla/9router)** — AI coding router with auto-fallback across 40+ LLM providers
 
 ### **📖 Learning & Exploration**
-- 🏛️ **[Claude Certified Architect](https://github.com/ChidanandaGonuguntla/claude-certified-architect)** — Study materials for Claude Certified Architect Foundations
+- 🏛️ **[Claude Certified Architect](https://github.com/ChidanandaGonuguntla/claude-certified-architect)** — Personal study notes for the Claude Certified Architect Foundations track
 - ⚖️ **[Claude for Legal](https://github.com/ChidanandaGonuguntla/claude-for-legal)** — Plugins for legal workflow automation
 
 ---
