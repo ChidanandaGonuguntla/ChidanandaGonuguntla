@@ -118,9 +118,7 @@ I'm a **Senior Backend Engineer & Tech Lead** with **15+ years** building enterp
 
 ---
 
-## 📊 GitHub Stats
-
-  ## 📊 GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
