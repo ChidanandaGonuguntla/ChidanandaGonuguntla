@@ -18,7 +18,7 @@ I'm a **Senior Backend Engineer & Tech Lead** with **15+ years** building enterp
 - 🤖 **Agentic AI builder** — Shipping MCP servers, LLM-powered DevSecOps tooling, and multi-agent systems
 - ☁️ **Cloud-native first** — Kubernetes, OpenShift, Helm, AWS, Datadog observability
 - 📊 **Data-intensive systems** — Kafka Streams, Postgres, Redis, Trino/Starburst federated analytics
-- 🏏 **Off the keyboard** — Cricket team captain, home theater enthusiast, AI/ML self-learner
+- 🏏 **Off the keyboard** — AI/ML self-learner
 
 ---
 
